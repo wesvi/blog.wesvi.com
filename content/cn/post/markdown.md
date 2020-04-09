@@ -15,6 +15,8 @@ draft: false
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=5242686&auto=0&height=32"></iframe>
 </html>
 
+<!--more-->
+
 Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。其基本语法如下：
 
 ---

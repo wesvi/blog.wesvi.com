@@ -9,6 +9,8 @@ draft: false
 
 ---
 
+<!--more-->
+
 # 树莓派使用
 
 ## 开启root权限

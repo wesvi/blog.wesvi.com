@@ -9,6 +9,8 @@ draft: false
 
 ---
 
+<!--more-->
+
 # Emacs安装配置
 
 ## 安装
