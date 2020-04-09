@@ -1,10 +1,14 @@
 ---
 title: Posts
-linkTitle: posts
-menu:
-  main:
-  sidebar:
-    identifier: posts
-weight: -250
-slug: posts
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 1
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
